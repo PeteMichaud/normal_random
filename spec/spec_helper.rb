@@ -1,0 +1,1 @@
+require 'normal_random'
